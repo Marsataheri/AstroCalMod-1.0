@@ -5,7 +5,7 @@ This is the README file for the AstroCalMod GUI associated with the Yu, Taheri e
 
 Taheri M, Handy G, Borisyuk A, White JA (2017) Diversity of Evoked Astrocyte Ca2+ Dynamics Quantified through Experimental Measurements and Mathematical Modeling. Front Syst Neurosci Oct 23;11:79. doi: 10.3389/fnsys.2017.00079. eCollection 2017.
 
-Handy G, Taheri M, White JA, Borisyuk A (2017) Mathematical investigation of IP3-dependent calcium dynamics in astrocytes. J Comput Neurosci 42:257-273
+Handy G, Taheri M, White JA, Borisyuk A (2017) Mathematical investigation of IP3-dependent calcium dynamics in astrocytes. J Comput Neurosci 42:257-273.
 
 ———————————————————————————
 
