@@ -1,12 +1,11 @@
 Copyright: Marsa Taheri, 2020
 
 
-This is the README file for the AstroCalMod GUI associated with the Yu, Taheri et al. (2020) paper and based on the mathematical model developed in the following papers:
+This is the README file for the AstroCalMod GUI associated with the Yu, Taheri et al. (2021) paper and based on the mathematical model developed in the following papers:
 
-Taheri M, Handy G, Borisyuk A, White JA (2017) Diversity of Evoked Astrocyte Ca2+ Dynamics Quantified through Experimental Measurements and Mathematical Modeling. Front Syst Neurosci.
+Taheri M, Handy G, Borisyuk A, White JA (2017) Diversity of Evoked Astrocyte Ca2+ Dynamics Quantified through Experimental Measurements and Mathematical Modeling. Front Syst Neurosci Oct 23;11:79. doi: 10.3389/fnsys.2017.00079. eCollection 2017.
 
-Handy G, Taheri M, White JA, Borisyuk A (2017) Mathematical
-Investigation of IP3-Dependent Calcium Dynamics in Astrocytes. J Comput Neurosci.
+Handy G, Taheri M, White JA, Borisyuk A (2017) Mathematical investigation of IP3-dependent calcium dynamics in astrocytes. J Comput Neurosci 42:257-273
 
 ———————————————————————————
 
