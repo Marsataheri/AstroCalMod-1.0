@@ -1,5 +1,6 @@
 # AstroCalMod-1.0
 AstroCalMod 1.0 is a GUI for exploring astrocyte calcium signaling using a mechanistic computational model. (Yu, Taheri, et al., 2021)
+
 Copyright: Marsa Taheri, 2020
 
 
@@ -9,7 +10,7 @@ Taheri M, Handy G, Borisyuk A, White JA (2017) Diversity of Evoked Astrocyte Ca2
 
 Handy G, Taheri M, White JA, Borisyuk A (2017) Mathematical investigation of IP3-dependent calcium dynamics in astrocytes. J Comput Neurosci 42:257-273
 
-————————————————————————————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————
 
 To run the GUI, first ensure that all files in the “AstroCalMod” folder are in the same folder and location on your computer. These files include this README file, “AstroCalMod.m”, and 3 folders (“CPA experiment functions”, “IP3-dependent functions”, “Supporting functions”) with their own set of Matlab files.
 
