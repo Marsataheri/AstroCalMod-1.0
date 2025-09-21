@@ -1,10 +1,10 @@
 # AstroCalMod-1.0
-AstroCalMod 1.0 is a GUI for exploring astrocyte calcium signaling using a mechanistic computational model. (Yu, Taheri, et al., 2021)
+AstroCalMod 1.0 is a GUI for exploring astrocyte calcium signaling using a mechanistic computational model. 
 
 Copyright: Marsa Taheri, 2020
 
 
-This is the README file for the AstroCalMod GUI associated with the Yu, Taheri et al. (2021) paper and based on the mathematical model developed in the following papers:
+This is the README file for the AstroCalMod GUI based on the mathematical model developed in the following papers:
 
 Taheri M, Handy G, Borisyuk A, White JA (2017) Diversity of Evoked Astrocyte Ca2+ Dynamics Quantified through Experimental Measurements and Mathematical Modeling. Front Syst Neurosci Oct 23;11:79. doi: 10.3389/fnsys.2017.00079. eCollection 2017.
 
